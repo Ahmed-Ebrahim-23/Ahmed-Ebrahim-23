@@ -1,7 +1,7 @@
 ## Hi there 👋 
-My name is Ahmed Ebrahim. I am a CS student at Helwan University. I am passionate about backend development and competitive programming.
+My name is Ahmed Ebrahim. I am a CS graduate from Helwan University. I am passionate about backend development and competitive programming.
 * 🌱  I’m currently learning **Backend using Django**
-* ✉️  You can contact me at my [Email](mailto:ahmed2322004ahmed@gmail.com)
+* ✉️  You can contact me at my [Email](mailto:ahmedlotfy3468@gmail.com)
 ### Skills & Tools
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
